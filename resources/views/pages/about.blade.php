@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('title', 'Home Page')
+@section('title', 'About Page')
 
 @section('content')
 <h2>About</h2>
